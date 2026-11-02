@@ -61,7 +61,8 @@ I design and build the backend pipelines that turn messy documents into reliable
 
 - **MEng, Biomedical Engineering & AI**, Kasetsart University (TAIST–Science Tokyo) · NSTDA full scholarship
 - **BSc (Hons) Computing, First Class Honours**, Edinburgh Napier University
-- **LLM Zoomcamp certificate**, DataTalks.Club
+- [**LLM Zoomcamp certificate**](https://certificate.datatalks.club/llm-zoomcamp/2026/6dc71566342eee158be6d7eb54c0047d14f59951.pdf), DataTalks.Club
+- [**dlt ELT Specialist**](https://github.com/dlt-hub/dlt-certificates/blob/main/certificates/technical_certification/56c22ac8a2eb5a7f62bb5d5dc597f52c79b9ad368a186a4aea669c2366d91629.md), dltHub
 
 ---
 
